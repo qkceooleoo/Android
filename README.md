@@ -10,6 +10,10 @@
    Hiển thị: "Chào bạn, tôi là Phạm Quốc Kha"
               Đây là ứng dụng tuần đầu tiên của tôi.
               Địa chỉ: Số 1 Võ Văn Ngân.
+![image](https://github.com/user-attachments/assets/78769637-f7be-4385-8138-068ee5ca88e7)
+
 2. **HomePage**:
    Hiển thị: "Welcome to HomePage!"
+   ![image](https://github.com/user-attachments/assets/90b7c095-7fff-43f0-91b8-dae0a54613b2)
+
 
